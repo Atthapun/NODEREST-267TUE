@@ -1,0 +1,19 @@
+{
+  "name": "noderest-267tue",
+  "version": "1.0.0",
+  "description": "Repository for back - End Develop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write =.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
